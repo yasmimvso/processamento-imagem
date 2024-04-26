@@ -3,7 +3,7 @@ import os
 from pillow.basics import file_path
 
 
-FOLDER_OUTPUT = "./output"
+FOLDER_OUTPUT = "../output"
 
 if not os.path.exists(FOLDER_OUTPUT):
     os.mkdir(FOLDER_OUTPUT)

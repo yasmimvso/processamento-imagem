@@ -2,7 +2,7 @@ from PIL import Image
 import os
 
 
-INPUT_FOLDER = "input"
+INPUT_FOLDER = "../input"
 
 # os.path.join(INPUT_FOLDER, "imagem.jpeg")
 def file_path(file):
